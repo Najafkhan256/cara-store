@@ -103,7 +103,7 @@ p {
 }
 
 #hero {
-  background-image: url("../images/hero4.png");
+  background-image: url("images/hero4.png");
   height: 90vh;
   width: 100%;
   background-position: top 25% right 0;
@@ -121,7 +121,7 @@ p {
   color: #088178;
 }
 #hero button {
-  background-image: url("../images/button.png");
+  background-image: url("images/button.png");
   background-color: transparent;
   color: #088178;
   border: 0;
@@ -250,7 +250,7 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url("../images/banner/b2.jpg");
+  background: url("images/banner/b2.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -282,7 +282,7 @@ button.normal:hover {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background: url("../images/banner/b17.jpg");
+  background: url("images/banner/b17.jpg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
@@ -290,7 +290,7 @@ button.normal:hover {
   padding: 30px;
 }
 .banner-box2 {
-  background-image: url("../images/banner/b10.jpg");
+  background-image: url("images/banner/b10.jpg");
 }
 #sm-banner h4 {
   color: #fff;
@@ -336,7 +336,7 @@ button.white {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("../images/banner/b0.jpg");
+  background-image: url("images/banner/b0.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -349,7 +349,7 @@ button.white {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background: url("../images/banner/b4.jpg");
+  background: url("images/banner/b4.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -362,7 +362,7 @@ button.white {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background: url("../images/banner/b18.jpg");
+  background: url("images/banner/b18.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -411,7 +411,7 @@ button.white {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  background-image: url("../images/banner/b14.png");
+  background-image: url("images/banner/b14.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 20% 30%;
@@ -509,7 +509,7 @@ footer a {
 }
 
 #shop-page {
-  background-image: url("../images/banner/b1.jpg");
+  background-image: url("images/banner/b1.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -581,7 +581,7 @@ p {
   line-height: 25px;
 }
 #shop-page.blog-header {
-  background-image: url("../images/banner/b19.jpg");
+  background-image: url("images/banner/b19.jpg");
 }
 #blog {
   padding: 140px 140px 0px 140px;
@@ -625,7 +625,7 @@ p {
   z-index: -1;
 }
 #shop-page.about-header{
-  background-image: url('../images/about/banner.png');
+  background-image: url('images/about/banner.png');
 }
 #about-head{
   display: flex;
